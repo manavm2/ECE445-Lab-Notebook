@@ -13,6 +13,8 @@ We ended up deciding to explore the trash collection idea more and Manav made a 
 
 We recieved a bunch of feedback on the same and were feeling less confident about the idea.
 
+
+
 **19th January 2023**
 
 After more discussion from the last post we decided to explore the smart showerhead again. After more thinking we realized that the idea could be better if we created a device that can be attached to any showerhead and measure a bunchh of stuff. Bhavana then made the following post:
