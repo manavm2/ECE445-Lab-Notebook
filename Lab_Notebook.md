@@ -25,5 +25,24 @@ We then got more comments on our post and the TA liked the idea. After some more
 
 We were feeling a lot more confident about the idea and decided to continue down this route.
 
+**23rd January 2023**
 
+We decided to create an RFA for the showerhead project idea on this day. Abhi and Manav created on outline for the systems and subsystems that we would need for this project. Once doing that, Bhavana helped to find many of the parts we would need in order to create each subsystem.
 
+Once finishing this, we decided to submit the project on the web board in order to get it approved by the TA's and the professor.
+
+**25th January 2023**
+
+We decided to submit the RFA on the showerhead idea. We received responses from the TA and the professor in the next couple of days. One of the TA's, Akshatkumar Sanatbhai Sanghvi, said this regarding our project idea:
+
+> Great. I think you could go for RFA.
+With this we were feeling confident on our project idea. However, a little while later one of the professors also responded to our RFA with a less exciting response:
+
+> I have serious doubts about the practicality of this device. A shower stall is a very hostile environment for electronics and any electrical device. A very high level of water resistance will be necessary. The presence of voltages and currents in a shower is potentially very hazardous. Where would the power to operate the systems come from? Certainly not household AC. Your system reminds me of an adjustable car seat with a memory feature which is convenient when there are multiple drivers. The difference is that the driver is belted into the seat and can't move whereas the person in the shower has quite a lot of freedom of movement so it is not necessary for the shower to aim accurately.
+On the other hand, just implementing your smart shower head seems quite challenging even in a non-shower environment. I'm going to approve this project but you will have address safety and the water environment and how the device is truly more convenient than the standard shower head. Many shower heads have multiple setting for different types of flow. You might consider that.
+
+With this, we were feeling a lot less confident about our project idea.
+
+**31st January 2023**
+
+Our group had a conversation today regarding what the professor had said about our project idea.
