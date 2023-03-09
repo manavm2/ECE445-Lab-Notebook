@@ -77,4 +77,14 @@ Today we met with our TA, Akshatkumar Sanghvi, in order to talk about our projec
 
 Our TA sent us a past proposal that received a great score in order to give us an understanding of how a good project proposal looks. With this, we were able to change our proposal to look similar to the one that received a good score in the next coming days.
 
+**10th February 2023**
 
+Today we sent in the project proposal. We all made finishing touches to our parts of the project and submitted it.
+
+We also went to the machine shop and again talked about the feasibility of our project. We showed him the temperature and optical level liquid sensor that we were going to order. He said that he had never worked with them before, but after explaining how it works and how the tip is the only thing that needs to touch the water, he was able to visualize it in his head. With this, he told us that we can order the parts and the showerhead and bring him our items as soon as possible.
+
+**15th February 2023** 
+
+Today our group met up in order to research and order parts for our project. Bhavana ordered the showerhead and the optical level liquid sensor that we will use for our project. With this we would be able to drill a hole into the showerhead and put the optical sensor in to check the duration of the shower. 
+
+We also were able to order a temperature sensor at this time. Abhijun did some research and found a temperature sensor that also detected the humidity of the surrounding area
