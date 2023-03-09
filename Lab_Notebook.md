@@ -57,15 +57,10 @@ Our group met up again in order to flesh out a new feature we could add to our s
 After this, we decided to pitch our new and improved idea to our Project section on Pace in order to get confirmation from the TA's and professors that this would be a better idea: 
 
 > Hi,
-
 We wanted to make the project a little different if that is possible. We would like to get rid of the positioning feature based on the user's height. Instead, we would like to include a bluetooth speaker on the showerhead that can connect to your phone. With this, you can play whatever music/podcast you would like to listen to as you shower and control it from the showerhead itself without having your phone involved.
-
 With this, you could skip, rewind, pause, or change the volume for the playlist that you are currently listening to directly on the showerhead. This minimizes the risk of your phone getting damaged while changing music in the shower.
-
 This will make our showerhead different than the already available temperature setting showerheads while implementing a new feature for people.
-
 Additionally, considering the powering of the system, we would have to create a waterproof box in which no water could potentially touch. This is one of the hardest parts of our project, but we believe we can make it work.
-
 Please let us know if this project idea sounds viable and can be approved. Would we need to create another RFA for this to get approved, or could we make the project proposal straight away?
 
 However, our post was met with no response. Believing that this was a better idea than our proposed RFA solution, we decided to go ahead and make a proposal for our new fleshed out idea.
