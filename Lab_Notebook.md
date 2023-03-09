@@ -65,19 +65,19 @@ Please let us know if this project idea sounds viable and can be approved. Would
 
 However, our post was met with no response. Believing that this was a better idea than our proposed RFA solution, we decided to go ahead and make a proposal for our new fleshed out idea.
 
-**5th February 2023**
+**4th February 2023**
 
 Our team decided to meet up today in order to talk about our project proposal that was due later that week on the 10th. From here, Manav started out by creating the problem and solution that our project would be solving. Bhavana started by creating the block diagram, the visual aid, and the safety considerations. And Abhijun started creating the tolerance analysis, the high level requirements, and talking to the machine shop in order to see if our project was even feasible.
 
 After splitting up the work, we decided to meet back again later for our TA meeting.
 
-**8th February 2023** 
+**7th February 2023** 
 
 Today we met with our TA, Akshatkumar Sanghvi, in order to talk about our project and go through our initial project proposal document with him. Upon meeting with him, he told us that everything looks good at the current moment but we need to make sure we are formatting our proposal in a way that is readable and similar to past projects. 
 
 Our TA sent us a past proposal that received a great score in order to give us an understanding of how a good project proposal looks. With this, we were able to change our proposal to look similar to the one that received a good score in the next coming days.
 
-**10th February 2023**
+**9th February 2023**
 
 Today we sent in the project proposal. We all made finishing touches to our parts of the project and submitted it.
 
@@ -87,4 +87,22 @@ We also went to the machine shop and again talked about the feasibility of our p
 
 Today our group met up in order to research and order parts for our project. Bhavana ordered the showerhead and the optical level liquid sensor that we will use for our project. With this we would be able to drill a hole into the showerhead and put the optical sensor in to check the duration of the shower. 
 
-We also were able to order a temperature sensor at this time. Abhijun did some research and found a temperature sensor that also detected the humidity of the surrounding area
+We also were able to order a temperature sensor at this time. Abhijun did some research and found a temperature sensor that also detected the humidity of the surrounding area. Once ordering these parts, we are able to test the sensors to make sure they work and then go to the machine shop and give them the parts in order to create our design.
+
+**16th February 2023**
+
+Today we met in order to decide how to split up the design document information. We decided that Bhavana would take the requirements and verifications for the showerhead systems, Abhi would take the requirements and verifications for the remote systems, and Manav would take the cost analysis, the timeline, and improving the tolerance analysis and the safety requirements.
+
+**17th February 2023**
+
+Today our group met in order to order our Raspberry PI to use as a communication device between our remote and our shower head system. However, upon researching Raspberry PI's and talking to the people in the ECEB shop, we realized that a Raspberry PI would be a very expensive option for us. Most Raspberry PI's are very difficult to find on the market currently, so they have upped the price and they are selling for upwards of $100. This was not a feasible option for us as it would make us way above budget.
+
+After talking to the people at the ECEB shop and doing some of our own research, we were able to find an alternate solution to our Raspberry PI problem. This solution was to get a device similar to the Raspberry PI, the Libre Computer.
+
+**21st February 2023**
+
+Today, we signed up for our design document review time. We decided to do it on 2/28/2023 at 3:30 pm as that was the time we were all available. In the meantime we have to get ready for the design review and finish our design document.
+
+
+
+
