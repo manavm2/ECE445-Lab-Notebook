@@ -69,7 +69,7 @@ However, our post was met with no response. Believing that this was a better ide
 
 Our team decided to meet up today in order to talk about our project proposal that was due later that week on the 10th. From here, Manav started out by creating the problem and solution that our project would be solving. Bhavana started by creating the block diagram, the visual aid, and the safety considerations. And Abhijun started creating the tolerance analysis, the high level requirements, and talking to the machine shop in order to see if our project was even feasible.
 
-After splitting up the work, we decided to meet back again tomorrow for our TA meeting.
+After splitting up the work, we decided to meet back again later for our TA meeting.
 
 **8th February 2023** 
 
