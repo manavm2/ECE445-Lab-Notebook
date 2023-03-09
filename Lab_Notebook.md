@@ -48,10 +48,38 @@ With this, we were feeling a lot less confident about our project idea.
 
 Our group had a conversation today regarding what the professor had said about our project idea. We decided to take the Professor's advice regarding the adjustable showerhead and change that idea. He mentioned great points in the fact that an adjustable shower head is not as convenient as the user would be moving around a lot as compared to having an adjustable car seat in which the user would only be in that. Instead we wanted to have just a smart shower that would allow the user to check the temperature and the duration of the shower.
 
-However, upon researching shoer heads on the market, we realized that our idea already exists. As a result, we had to come up with a new way in which our idea could be different but still difficult to implement and interesting for a potential person.
+However, upon researching shower heads on the market, we realized that our idea already exists. As a result, we had to come up with a new way in which our idea could be different but still difficult to implement and interesting for a potential person.
 
-**2nd February 2023**
+**1st February 2023**
 
 Our group met up again in order to flesh out a new feature we could add to our shower head that would make it different. After brainstorming, something that we noticed we all did when taking showers was listening to music. However, some of the problems we all faced when listening to music while showering was that we could not bring our phones into the shower as they would get wet. In this case, we decided to have a speaker in our system that could connect to a user's phone and allow them to play music while not harming the functionality of their phone.
+
+After this, we decided to pitch our new and improved idea to our Project section on Pace in order to get confirmation from the TA's and professors that this would be a better idea: 
+
+> Hi,
+
+We wanted to make the project a little different if that is possible. We would like to get rid of the positioning feature based on the user's height. Instead, we would like to include a bluetooth speaker on the showerhead that can connect to your phone. With this, you can play whatever music/podcast you would like to listen to as you shower and control it from the showerhead itself without having your phone involved.
+
+With this, you could skip, rewind, pause, or change the volume for the playlist that you are currently listening to directly on the showerhead. This minimizes the risk of your phone getting damaged while changing music in the shower.
+
+This will make our showerhead different than the already available temperature setting showerheads while implementing a new feature for people.
+
+Additionally, considering the powering of the system, we would have to create a waterproof box in which no water could potentially touch. This is one of the hardest parts of our project, but we believe we can make it work.
+
+Please let us know if this project idea sounds viable and can be approved. Would we need to create another RFA for this to get approved, or could we make the project proposal straight away?
+
+However, our post was met with no response. Believing that this was a better idea than our proposed RFA solution, we decided to go ahead and make a proposal for our new fleshed out idea.
+
+**5th February 2023**
+
+Our team decided to meet up today in order to talk about our project proposal that was due later that week on the 10th. From here, Manav started out by creating the problem and solution that our project would be solving. Bhavana started by creating the block diagram, the visual aid, and the safety considerations. And Abhijun started creating the tolerance analysis, the high level requirements, and talking to the machine shop in order to see if our project was even feasible.
+
+After splitting up the work, we decided to meet back again tomorrow for our TA meeting.
+
+**8th February 2023** 
+
+Today we met with our TA, Akshatkumar Sanghvi, in order to talk about our project and go through our initial project proposal document with him. Upon meeting with him, he told us that everything looks good at the current moment but we need to make sure we are formatting our proposal in a way that is readable and similar to past projects. 
+
+Our TA sent us a past proposal that received a great score in order to give us an understanding of how a good project proposal looks. With this, we were able to change our proposal to look similar to the one that received a good score in the next coming days.
 
 
