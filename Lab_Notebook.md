@@ -46,4 +46,12 @@ With this, we were feeling a lot less confident about our project idea.
 
 **31st January 2023**
 
-Our group had a conversation today regarding what the professor had said about our project idea.
+Our group had a conversation today regarding what the professor had said about our project idea. We decided to take the Professor's advice regarding the adjustable showerhead and change that idea. He mentioned great points in the fact that an adjustable shower head is not as convenient as the user would be moving around a lot as compared to having an adjustable car seat in which the user would only be in that. Instead we wanted to have just a smart shower that would allow the user to check the temperature and the duration of the shower.
+
+However, upon researching shoer heads on the market, we realized that our idea already exists. As a result, we had to come up with a new way in which our idea could be different but still difficult to implement and interesting for a potential person.
+
+**2nd February 2023**
+
+Our group met up again in order to flesh out a new feature we could add to our shower head that would make it different. After brainstorming, something that we noticed we all did when taking showers was listening to music. However, some of the problems we all faced when listening to music while showering was that we could not bring our phones into the shower as they would get wet. In this case, we decided to have a speaker in our system that could connect to a user's phone and allow them to play music while not harming the functionality of their phone.
+
+
