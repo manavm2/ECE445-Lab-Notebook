@@ -99,10 +99,52 @@ Today our group met in order to order our Raspberry PI to use as a communication
 
 After talking to the people at the ECEB shop and doing some of our own research, we were able to find an alternate solution to our Raspberry PI problem. This solution was to get a device similar to the Raspberry PI, the Libre Computer.
 
+We also emailed our TA regarding the grade for our project proposal as it was not done yet. All the other teams had received a grade and he had said he had graded all of them. However, we had not received a grade or feedback regarding our work so we could not fix it or change it for the design document if necessary. He said he would grade it as soon as possible.
+
 **21st February 2023**
 
 Today, we signed up for our design document review time. We decided to do it on 2/28/2023 at 3:30 pm as that was the time we were all available. In the meantime we have to get ready for the design review and finish our design document.
 
+**22nd February 2023**
 
+Today, we received an email from our TA regarding changes we should make to the project proposal; however, he still did not provide us with a grade at this time. Some of his feedback included changing our entire visual aid and block diagram as it was very confusing.
+
+He also gave us the advice that we should add math to our tolerance analysis as it was a requirement.
+
+However, as the design document was due the next day, we asked for an extension on the design document and the project proposal revision. Our TA said the professor would not approve the extension if we could get our design document done in time, so we buckled down and did majority of the work. 
+
+Bhavana worked on redoing the block diagram and the visual aid using Microsoft Visio. Abhijun worked on adding math to our tolerance analysis. Manav worked on the other parts of the design document that were do as a result. 
+
+At the end of the day, we were able to have a new block diagram, visual aid, and math in our tolerance analysis.
+
+**23rd February 2023**
+
+The design document was due. We formatted the entire document well and added all of our requirement and verifications table as well as doing a cost analysis on our project.
+
+**24th February 2023**
+
+We had a project proposal revision due. We used a lot of the information we made in the design document in order to enhance our project proposal revision. However we did not submit it as the professor said we would have 2 weeks upon receiving our grade in order to resubmit. So we decided to wait for our design document review to get feedback and resubmit it.
+
+Our team contract was also due today. So we met up for a while and discussed how we would like to divide up the work and how we would handle conflict within the group. We also discussed which roles we would all like to have in the group and who would be in charge of what activity.
+
+We all then signed the team contract and submitted it.
+
+**27th February 2023**
+
+Abhijun attended his peer review session and from this he was able to give information on what kinds of questions we should be prepared for regarding our design. Specifically questions regarding the voltage requirements and what to do if there was an issue in our voltage and current requirements.
+
+**28th February 2023**
+
+Today is the day of of our design document review. We got to the lab 5 minutes early in order to set up all of our laptops and make sure we knew who was saying what. When we presented we got many questions regarding our design and what kind of microcontroller we were using.
+
+They also questioned the need for our Raspberry PI in the project. With this, we were very unsure other about why we were using it other than the fact that it has bluetooth capabilities and we would be able to use that to connect the phone to the speaker and the remote in order to change the song from the remote itself.
+
+The professor also told us when looking at the cost analysis that we undervalued our workload and that we should give more to ourselves in wages. He also said that the 50 hours that we estimated for each of us to work would not be accurate and that we needed to add more hours in order to get this project to work.
+
+At the end of this, Manav went to his peer review session and was able to see another project.
+
+**1st March 2023** 
+
+Bhavana went to her peer review session today.
 
 
