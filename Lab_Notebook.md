@@ -147,4 +147,42 @@ At the end of this, Manav went to his peer review session and was able to see an
 
 Bhavana went to her peer review session today.
 
+**3rd March 2023**
 
+We met with our TA for our weekly meeting. He told us that we should get rid of the Raspberry PI idea entirely and use a microcontroller instead to connect with our devices. However, we were very confused as to what this meant for our project, so we emailed the professor for more details.
+
+**6th March 2023**
+
+We got an email back from the professor regarding the microcontroller that we should use and how we should go about it:
+
+>I want you to drive the speaker in your shower head directly from the bluetooth signal from your phone and not use a Raspberry PI in your project. I realize that you may have to give up some features such as remote song selection. Basically, you need to design a circuit that will take the signal from a Bluetooth module on the showerhead and convert it to an input signal for the speaker and implement it on your PCB.
+
+With this information, we had a little more of an idea that we had to use a microcontroller with Bluetooth that could do the job that a Raspberry PI would have done. After talking to a TA, we got a better understanding of the microcontroller we should use. We decided to use a Esp32-wroom-32d due to its GPIO, bluetooth, and wireless capabilities.
+
+After realizing this, we decided to go talk to the professor as well just to confirm our idea and the microcontroller we were going to use. The professor approved the idea and said that it should work.
+
+However, without the use of the Raspberry PI, we had to change the idea of having a remote as we could not have the button functionality anymore. Instead of a remote, we decided to simply have a display that would mount to that wall. The display would still show the duration of shower, the temperature, and the current song; however, we would not be able to switch the song from our remote and the user would have to use their phone instead.
+
+With this, we asked for an extension on our pcb design that was due that night. The professor approved it and allowed us to have until Wednesday night in order to get our pcb design finished and ready for PCB Way.
+
+We also had received our temperature and optical liquid level sensor, so we wanted to start testing that. We wanted to use the Libre Computer that we had bought in order to test our sensors. 
+
+From here, we split the work up. Bhavana was working on the PCB design in order to send to our TA, and Abhi and Manav were figuring out how to code the Libre Computer in order to test the sensors before giving them to the machine shop to drill into the shower head.
+
+**7th March 2023**
+
+We met up in the lab again today. Bhavana made progress on designing the schematic of the PCB with the esp32-wroom-32d being our microcontroller. Abhi and Manav figured out what parts we would need in order to make the Libre Computer work and continued working on testing the sensors.
+
+**8th March 2023**
+
+We met up at the lab again today. Bhavana finished the schematic and was working on the footprints and creating the actual PCB wires and look. She finished the PCB design but was met with many errors once running DRC. She had to go back and fix all of those problems. 
+
+Finally she finished it and sent it into PCB Way to see if it would pass their inspection. She also sent it to the TA.
+
+However, later in the night the TA got back to us and said our PCB order was $55, which was way too expensive. As a result we had to fix our design.
+
+Manav and Abhi finally figured out tha the Libre Computer was not the best way to test the sensors and instead used an arduino in order to test. With this, they were able to get the optical liquid level sensor to work. However, with testing, we realized that the temperature sensor was not working because the data was not changing. As a result, we ordered a new temperature sensor. Abhi emailed the machine shop in order to tell him we need an extension regarding dropping off our sensors and showerhead and we will get it in later tomorrow after doing some more testing on the temperature sensor. 
+
+**9th March 2023**
+
+Bhavana fixed the PCB design and sent it into the TA to order. The price dropped from $55 to $5, which is the normal price of a PCB.
