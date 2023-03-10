@@ -186,3 +186,7 @@ Manav and Abhi finally figured out tha the Libre Computer was not the best way t
 **9th March 2023**
 
 Bhavana fixed the PCB design and sent it into the TA to order. The price dropped from $55 to $5, which is the normal price of a PCB.
+
+**10th March 2023**
+
+Today we met in lab in order to try and test the temperature sensor. We talked to the TA for a while in order to fix the problem. However, we decided to switch from the Arduino to the Libre Computer for testing as we were running into issues with the code stopping and not outputting anything. 
