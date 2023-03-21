@@ -190,3 +190,9 @@ Bhavana fixed the PCB design and sent it into the TA to order. The price dropped
 **10th March 2023**
 
 Today we met in lab in order to try and test the temperature sensor. We talked to the TA for a while in order to fix the problem. However, we decided to switch from the Arduino to the Libre Computer for testing as we were running into issues with the code stopping and not outputting anything. 
+
+From here, we realized that our temperature sensor was not working and it was broken. We decided to order a new temperature sensor and talk to the machine shop in order to tell him about our situation and the issue we were facing.
+
+**21st March 2023**
+
+Today we met in lab in order to test our new temperature sensor. 
