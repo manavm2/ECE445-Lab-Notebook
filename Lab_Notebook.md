@@ -196,3 +196,11 @@ From here, we realized that our temperature sensor was not working and it was br
 **21st March 2023**
 
 Today we met in lab in order to test our new temperature sensor. 
+
+**25th March 2023**
+
+Today we got our new PCB and were able to go into lab and test it. However, upon soldering a couple pieces on the PCB, we realized we had made some mistakes. Some of the mistakes included not having the right size holes on the pcb for our battery. We also did not have anything to program our ESP and get the data from the sensors. 
+
+We knew we needed to fix these for the next design. 
+
+
