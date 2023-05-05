@@ -243,4 +243,10 @@ We were able to use a 2x3 pin connector from a soldering kit to attempt programm
 
 **19th April 2023**
 
-The programmer that we ordered has still not been delivered. 
+The programmer that we ordered has still not been delivered. This meant we were unable to still program the ESP at this point of time. We decided to work on the display code as well as the sensor code and bringing all of it together. This was the bulk of what we were working on. We looked up a lot of information online on how to go about it. We made a lot of progress and were able to see infomation on the display but it was still a work in progress. We were unfortunately not able to test it on the ESP32 and had to just use an arduino uno to test the code at the moment.
+
+**20th April 2023**
+
+We recieved the programmer from amazon and were finally able to start on the programming. Unforunately other than checking the package and making sure we had all parts we could not do more as all of us had other exams or work to catch up on.
+
+**21st April 2023**
