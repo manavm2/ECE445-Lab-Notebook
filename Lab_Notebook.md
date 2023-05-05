@@ -252,3 +252,37 @@ We recieved the programmer from amazon and were finally able to start on the pro
 **21st April 2023**
 
 At this point we were at the last stretch of the project as our demo was in 4 days. We all meet at 12pm and started working on the project. At this point we were focusing on getting the esp32 to be recognized by our laptop. Initially it still did not work with the new programmer and we were having some problem with the esp32 showing up and then we worked on troubleshooting the problem. We soon realzied that we were also picking the wrong board on the arudino IDE and that caused us not being able to recognize the ESP32. As soon as we were able to to figure that out we started testing out the code for the display and seeing if it it would now work on the esp32. Initially it did not work but after some troubleshooting we realised we had to change the pin number information on the code and finally able to get it to work. After a day of success we decided to go home for the night. 
+
+**23rd April 2023**
+
+After getting a decent amount working we were on homestretch of getting our project together. Now that we had the display and esp32 working we split up the rest of the work to start getting things moving quicker. Manav focused on integrating the display and sesor code and showing it in a user friendly way for the person to udnerstand in the shower, abhi focused on the PCB making sure everything was working as expected and all the connections were good, bhav started working on connecting the esp32 to the bluetooth speaker and get the song name. At the end of the night our waterproof temperature broke and would only give us garbage values at this point. 
+
+**24th April 2023**
+
+We came back in the morning and talked to ghte machine shop about removing the old sensor and putting the new one in. We were luckily able to get that done with the machine shop and that was a great sign. After rigorus testing we were able to get the display showing all the correct information in the manner we wanted it to. The main part that was left was connecting the esp32 to the wifi but it it seemed like the wifi component of our esp32 chip was not working unfortunately and we had to use a esp32 devboard that we got from a friend to connect it wifi and then bhavana focused on creating a backend and using the spotify api to get the song name. Once we did that we were able to program the esp32 with evetything we needed and put evetyhing together. Once we were done with the lab component we all went to Bhavan's apartment to test the showerhead and take a video fo everythign working together. We got a great demo videoa dn finished everything on time. 
+
+**25th April 2023**
+
+THe day of the demo we finished all our high level requirement and demoed at 11am. The professor was happy with our project and we were able to demonstrate and explain everything. Went home happy.
+
+**27th April 2023**
+
+Mock presentation day. We made a quick presentation the day of and got good feedback.
+
+**30th April 2023**
+
+We divided up the presentation and worked on it all day and practiced it. We felt good about communicating all of the information and felt preapred for the presentation.
+
+**1st May 2023**
+
+Presented our project and felt proud. Professor was impressed and like our presentation
+
+**3rd May 2023**
+
+We finished up our final report and submiited
+
+**4th May 2023**
+
+Last entry for the notebook. Lab checkout done. Made a successful speaker showerhead. 
+
+
