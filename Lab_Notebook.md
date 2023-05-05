@@ -212,3 +212,11 @@ Another new thing we added was a voltage regulator that would allow for 5 Volts 
 Today Bhavana and Abhi went to the PCB review session in order to check with a TA regarding the components on our PCB. They were able to meet with a TA and get some pointers on what to add. One such pointer was to add a 4x1 connector as a JTAG in case we were not able to program the PCB using UART.
 
 Another pointer was to add testpoints on any data wire that we were unsure of. This was a helpful tip as it would allow us to still use our PCB even if a couple of wires were wired incorrectly.
+
+**29th March 2023**
+
+We sent in another PCBWay order in the third round. We checked with one more TA at office hours and audited our PCB on PCBWay before sending it to Akshat.
+
+**2nd April 2023**
+
+We came into lab today in order to take stock of what we had ordered and what we still needed. We decided to buy all the parts for our PCB. Abhi ordered all of our voltage regulators and worked with Bhavana on finding which resistors and capacitors we would need to buy. Manav looked to order a display so we would be able to showcase our outputs to the user.
