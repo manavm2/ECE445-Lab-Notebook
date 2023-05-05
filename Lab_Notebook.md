@@ -243,6 +243,4 @@ We were able to use a 2x3 pin connector from a soldering kit to attempt programm
 
 **19th April 2023**
 
-We were able to program the microcontroller
-
-
+The programmer that we ordered has still not been delivered. 
