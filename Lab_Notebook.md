@@ -13,8 +13,6 @@ We ended up deciding to explore the trash collection idea more and Manav made a 
 
 We recieved a bunch of feedback on the same and were feeling less confident about the idea.
 
-
-
 **19th January 2023**
 
 After more discussion from the last post we decided to explore the smart showerhead again. After more thinking we realized that the idea could be better if we created a device that can be attached to any showerhead and measure a bunchh of stuff. Bhavana then made the following post:
@@ -195,12 +193,22 @@ From here, we realized that our temperature sensor was not working and it was br
 
 **21st March 2023**
 
-Today we met in lab in order to test our new temperature sensor. 
+Today we met in lab in order to test our new temperature sensor. We ended up getting accurate readings for our new sensor by using Arduino IDE. We were able to output the temperature in Farenheight and Celsius for the user. 
 
-**25th March 2023**
+**24th March 2023**
 
 Today we got our new PCB and were able to go into lab and test it. However, upon soldering a couple pieces on the PCB, we realized we had made some mistakes. Some of the mistakes included not having the right size holes on the pcb for our battery. We also did not have anything to program our ESP and get the data from the sensors. 
 
 We knew we needed to fix these for the next design. 
 
+**27th March 2023**
 
+Today Bhavana started working on a new PCB design. She added a BOOT option that would connect to GPIO pin 1 on the microcontroller in order to program the ESP32. She also added a UART 3x2 pin connector that would allow us to program our ESP32. 
+
+Another new thing we added was a voltage regulator that would allow for 5 Volts as our optical liquid level sensor required 5 volts to operate.
+
+**28th March 2023**
+
+Today Bhavana and Abhi went to the PCB review session in order to check with a TA regarding the components on our PCB. They were able to meet with a TA and get some pointers on what to add. One such pointer was to add a 4x1 connector as a JTAG in case we were not able to program the PCB using UART.
+
+Another pointer was to add testpoints on any data wire that we were unsure of. This was a helpful tip as it would allow us to still use our PCB even if a couple of wires were wired incorrectly.
