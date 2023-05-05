@@ -215,8 +215,34 @@ Another pointer was to add testpoints on any data wire that we were unsure of. T
 
 **29th March 2023**
 
-We sent in another PCBWay order in the third round. We checked with one more TA at office hours and audited our PCB on PCBWay before sending it to Akshat.
+Bhavana worked on fixing the issues we had with our PCB and redisgned much of our system on the PCB while Abhi and Manav worked on incorporating the sensor code for use with a display and figuring out which display works best for us.
 
 **2nd April 2023**
 
+Bhavana worked on the PCB at home over the weekend and we came together to review our design together and ensure it made sense to everyone. We put in our PCBWay order for the 4th order cycle.
+
+**4th April 2023**
+
 We came into lab today in order to take stock of what we had ordered and what we still needed. We decided to buy all the parts for our PCB. Abhi ordered all of our voltage regulators and worked with Bhavana on finding which resistors and capacitors we would need to buy. Manav looked to order a display so we would be able to showcase our outputs to the user.
+
+**6th April 2023**
+
+We all met together and realized that most of the things we wanted to work on were still in the process of being ordered. We ended up working on the code and make sure that all the code will work together well and that there were no problems with our parts integrating. Manav and Bhavana also ordered our waterproof container since that was one of the only things we were still missing for our project.
+
+**12th April 2023**
+
+Our PCB is delivered but our connectors as well as most components that needed to be soldered on the PCB had not yet arrived. Abhi still took this opportunity to solder the ESP32 to the PCB and started the testing process by plugging in a voltage generator but this eventually failed. In the meantime Bhavana and Manav worked on the display code.
+
+**17th April 2023**
+
+Many of our connectors and voltage regulators were delivered so Bhanava and Manav took this opportunity to solder the pieces onto the PCB. We all together than worked on starting the testing process of the ESP and the PCB as a whole. We were still missing a 2x3 pin connector for programming the ESP so we were not able to get very far in testing.
+
+**18th April 2023**
+
+We were able to use a 2x3 pin connector from a soldering kit to attempt programming the PCB. We all worked together to wire our ESP to the voltage generator and try to program it but we were unable to detect the ESP on the computer. After multiple attempts we realized that the programmer we were attempting to use the, USBasp, was incompatible with our microcontroller. At this point since we had very little time and very little budget we decided to buy the correct programmer through Amazon to get faster shipping.
+
+**19th April 2023**
+
+We were able to program the microcontroller
+
+
